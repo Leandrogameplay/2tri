@@ -19,7 +19,7 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "A ia nas empresas",
+        enunciado: "A IA nas empresas",
         alternativas: [
             {
                 texto: "A IA nas empresas melhora a eficiência, automatiza processos e auxilia na tomada de decisões estratégicas. É usada em atendimento ao cliente, análise de dados e otimização de operações. Apesar dos benefícios, exige cuidado com questões éticas e a necessidade de adaptação organizacional.",
@@ -45,28 +45,28 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "Ao final da discussão, você precisou criar uma imagem no computador que representasse o que pensa sobre IA. E agora?",
+        enunciado: "desempenho ou desleixamento?",
         alternativas: [
             {
-                texto: "Criar uma imagem utilizando uma plataforma de design como o Paint.",
-                afirmacao: "Notou também que muitas pessoas não sabem ainda utilizar as ferramentas tradicionais e decidiu compartilhar seus conhecimentos de design utilizando ferramentas de pintura digital para iniciantes."
+                texto: "Sim, a IA pode aumentar o desempenho de diversas maneiras. Ela automatiza tarefas repetitivas, melhora a análise de dados, fornece insights em tempo real e ajuda na tomada de decisões informadas. Além disso, a IA pode personalizar experiências e otimizar processos, resultando em maior eficiência e produtividade.",
+                afirmacao: "A IA aumenta o desempenho ao automatizar tarefas, melhorar a análise de dados e otimizar processos, resultando em maior eficiência e produtividade."
             },
             {
-                texto: "Criar uma imagem utilizando um gerador de imagem de IA.",
-                afirmacao: "Acelerou o processo de criação de trabalhos utilizando geradores de imagem e agora consegue ensinar pessoas que sentem dificuldades em desenhar manualmente como utilizar também!"
+                texto: "A IA não aumenta o desempenho, pois pode levar ao desleixamento, fazendo com que as pessoas dependam excessivamente da tecnologia e percam habilidades essenciais. Essa dependência pode resultar em falta de atenção e comprometimento nas atividades, diminuindo a qualidade e a eficácia.",
+                afirmacao: "A IA não melhora o desempenho; na verdade, pode causar desleixamento, já que as pessoas se tornam excessivamente dependentes da tecnologia, o que leva à perda de habilidades importantes e à falta de atenção nas tarefas."
             }
         ]
     },
     {
-        enunciado: "Você tem um trabalho em grupo de biologia para entregar na semana seguinte, o andamento do trabalho está um pouco atrasado e uma pessoa do seu grupo decidiu fazer com ajuda da IA. O problema é que o trabalho está totalmente igual ao do chat. O que você faz? ",
+        enunciado: "O futuro da IA",
         alternativas: [
             {
-                texto: "Escrever comandos para o chat é uma forma de contribuir com o trabalho, por isso não é um problema utilizar o texto inteiro.",
-                afirmacao: "Infelizmente passou a utilizar a IA para fazer todas suas tarefas e agora se sente dependente da IA para tudo."
+                texto: "O futuro da IA traz avanços significativos em áreas como saúde, transporte e educação, melhorando a personalização e otimizando processos. Questões éticas e de privacidade ganharão destaque, enquanto a colaboração entre humanos e máquinas se tornará essencial, focando em sistemas que complementem as habilidades humanas.",
+                afirmacao: "O futuro da IA trará avanços significativos em diversas áreas, melhorando a personalização e a eficiência, enquanto questões éticas e de privacidade se tornarão cada vez mais relevantes."
             },
             {
-                texto: "O chat pode ser uma tecnologia muito avançada, mas é preciso manter a atenção pois toda máquina erra, por isso revisar o trabalho e contribuir com as perspectivas pessoais é essencial.",
-                afirmacao: "Percebeu que toda IA reproduz orientações baseadas na empresa que programou e muito do que o chat escrevia não refletia o que pensava e por isso sabe que os textos gerados pela IA devem servir como auxílio e não resultado final. "
+                texto: "O futuro da IA pode apresentar desafios significativos, como o aumento do desemprego devido à automação, a intensificação das desigualdades sociais e a perpetuação de preconceitos através de algoritmos tendenciosos. Questões de privacidade e vigilância podem se agravar, com a coleta de dados pessoais se tornando mais invasiva. Além disso, a dependência crescente da tecnologia pode levar ao desleixamento das habilidades humanas e à falta de crítica em relação às decisões tomadas por sistemas automatizados.",
+                afirmacao: "O futuro da IA pode trazer desafios como o aumento do desemprego, a ampliação das desigualdades sociais, a perpetuação de preconceitos e preocupações com privacidade, além de uma dependência crescente da tecnologia que pode levar ao desleixamento das habilidades humanas."
             }
         ]
     },
