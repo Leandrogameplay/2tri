@@ -10,7 +10,7 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Isso é assustador!",
-                afirmacao: "No início ficou com medo do que essa tecnologia pode fazer. "
+                afirmacao: "Não funciona essa tecnologia tecnológia. "
             },
             {
                 texto: "Isso é maravilhoso!",
@@ -19,28 +19,28 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "Com a descoberta desta tecnologia, chamada Inteligência Artificial, uma professora de tecnologia da escola decidiu fazer uma sequência de aulas sobre esta tecnologia. No fim de uma aula ela pede que você escreva um trabalho sobre o uso de IA em sala de aula. Qual atitude você toma?",
+        enunciado: "A ia nas empresas",
         alternativas: [
             {
-                texto: "Utiliza uma ferramenta de busca na internet que utiliza IA para que ela ajude a encontrar informações relevantes para o trabalho e explique numa linguagem que facilite o entendimento.",
-                afirmacao: "Conseguiu utilizar a IA para buscar informações úteis."
+                texto: "A IA nas empresas melhora a eficiência, automatiza processos e auxilia na tomada de decisões estratégicas. É usada em atendimento ao cliente, análise de dados e otimização de operações. Apesar dos benefícios, exige cuidado com questões éticas e a necessidade de adaptação organizacional.",
+                afirmacao: "Você consegue fazer suas atividades mais rápidas"
             },
             {
-                texto: "Escreve o trabalho com base nas conversas que teve com colegas, algumas pesquisas na internet e conhecimentos próprios sobre o tema.",
-                afirmacao: "Sentiu mais facilidade em utilizar seus próprios recursos para escrever seu trabalho."
+                texto: "Em 2024, cerca de 73% das empresas nos EUA adotaram IA em alguma área de seus negócios, e globalmente, 55% das organizações utilizam IA para ganhar vantagem competitiva.",
+                afirmacao: "Eu conheço alguém que perdeu o emprego por causa da inteligência artificial."
             }
         ]
     },
     {
-        enunciado: "Após a elaboração do trabalho escrito, a professora realizou um debate entre a turma para entender como foi realizada a pesquisa e escrita. Nessa conversa também foi levantado um ponto muito importante: como a IA impacta o trabalho do futuro. Nesse debate, como você se posiciona?",
+        enunciado: "Os dois lados da moeda.",
         alternativas: [
             {
                 texto: "Defende a ideia de que a IA pode criar novas oportunidades de emprego e melhorar habilidades humanas.",
                 afirmacao: "Vem impulsionando a inovação na área de IA e luta para abrir novos caminhos profissionais com IA."
             },
             {
-                texto: "Me preocupo com as pessoas que perderão seus empregos para máquinas e defendem a importância de proteger os trabalhadores.",
-                afirmacao: "Sua preocupação com as pessoas motivou a criar um grupo de estudos entre trabalhadores para discutir meios de utilização de IA de forma ética."
+                texto: "A IA pode causar perda de empregos, perpetuar preconceitos, comprometer a privacidade e ser usada para fins maliciosos. Além disso, a falta de transparência em seus processos dificulta a correção de erros e a responsabilização.",
+                afirmacao: "A inteligência artificial pode causar perda de empregos, perpetuar preconceitos, comprometer a privacidade e ser usada para fins maliciosos. Além disso, a falta de transparência em seus processos dificulta a correção de erros e a responsabilização."
             }
         ]
     },
