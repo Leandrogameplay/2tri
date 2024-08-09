@@ -6,7 +6,7 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "O início da inteligência artificial.A Inteligência Artificial (IA) começou na década de 1950, com o termo sendo criado por John McCarthy em 1956 durante uma conferência em Dartmouth. Os primeiros avanços incluíram programas como o de xadrez "Deep Blue", mas o progresso foi intermitente, com períodos de otimismo seguidos por "invernos da IA". A popularidade da IA cresceu nos anos 2000, impulsionada pelo aumento do poder computacional, disponibilidade de grandes volumes de dados e novas técnicas de aprendizado profundo.",
+        enunciado: "O início da inteligência artificial.A Inteligência Artificial (IA) começou na década de 1950, com o termo sendo criado por John McCarthy em 1956 durante uma conferência em Dartmouth. Os primeiros avanços incluíram programas como o de xadrez Deep Blue, mas o progresso foi intermitente, com períodos de otimismo seguidos por invernos da IA. A popularidade da IA cresceu nos anos 2000, impulsionada pelo aumento do poder computacional, disponibilidade de grandes volumes de dados e novas técnicas de aprendizado profundo.",
         alternativas: [
             {
                 texto: "Isso nao funciona",
