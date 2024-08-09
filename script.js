@@ -10,7 +10,7 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Isso é assustador!",
-                afirmacao: "Não funciona essa tecnologia tecnológia. "
+                afirmacao: "Não funciona essa tecnologia. "
             },
             {
                 texto: "Isso é maravilhoso!",
@@ -19,7 +19,7 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "A IA nas empresas",
+        // enunciado: "A IA nas empresas oque vc acha",
         alternativas: [
             {
                 texto: "A IA nas empresas melhora a eficiência, automatiza processos e auxilia na tomada de decisões estratégicas. É usada em atendimento ao cliente, análise de dados e otimização de operações. Apesar dos benefícios, exige cuidado com questões éticas e a necessidade de adaptação organizacional.",
