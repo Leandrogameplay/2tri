@@ -9,17 +9,17 @@ const perguntas = [
         enunciado: "O início da inteligência artificial.A Inteligência Artificial (IA) começou na década de 1950, com o termo sendo criado por John McCarthy em 1956 durante uma conferência em Dartmouth. Os primeiros avanços incluíram programas como o de xadrez "Deep Blue", mas o progresso foi intermitente, com períodos de otimismo seguidos por "invernos da IA". A popularidade da IA cresceu nos anos 2000, impulsionada pelo aumento do poder computacional, disponibilidade de grandes volumes de dados e novas técnicas de aprendizado profundo.",
         alternativas: [
             {
-                texto: "Isso é assustador!",
+                texto: "Isso nao funciona",
                 afirmacao: "Não funciona essa tecnologia. "
             },
             {
                 texto: "Isso é maravilhoso!",
-                afirmacao: "Quis saber como usar IA no seu dia a dia."
+                afirmacao: "Quis saber como usar IA no meu dia a dia."
             }
         ]
     },
     {
-        // enunciado: "A IA nas empresas oque vc acha",
+        enunciado: "A IA nas empresas oque vc acha",
         alternativas: [
             {
                 texto: "A IA nas empresas melhora a eficiência, automatiza processos e auxilia na tomada de decisões estratégicas. É usada em atendimento ao cliente, análise de dados e otimização de operações. Apesar dos benefícios, exige cuidado com questões éticas e a necessidade de adaptação organizacional.",
